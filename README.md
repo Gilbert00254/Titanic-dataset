@@ -1,6 +1,6 @@
 # Titanic-dataset
 ## Context
-This repository contains and the codes written after working in the training bootcamp Data Science Dojo [(more info here)](https://datasciencedojo.com/). This is the first Kaggle submission.
+This repository contains the codes written after working in the training bootcamp Data Science Dojo [(more info here)](https://datasciencedojo.com/). This is the first Kaggle submission.
 
 ## List of the files
 - Homework.R: files containing the code of the data cleans and the prediction on the Titanic dataset
